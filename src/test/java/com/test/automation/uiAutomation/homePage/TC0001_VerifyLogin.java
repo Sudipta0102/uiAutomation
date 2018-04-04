@@ -33,6 +33,7 @@ public class TC0001_VerifyLogin extends TestBase{
 		Assert.assertEquals(homepage.invalidAuthMsg(), "Authentication failed.");
 		log.info("Verification done");
 		log.info("Test completed");
+		log.info("sotyi!");
 	}
 	
 	@AfterTest
