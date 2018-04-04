@@ -1,0 +1,63 @@
+Starting the test
+Logging in to app
+Clicked on signIn and object is: [[ChromeDriver: chrome on XP (1f1b729209c4778d25cf5148fbf21bc8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (1f1b729209c4778d25cf5148fbf21bc8)] -> xpath: //*[@id='email']]
+Password is: password and object is: [[ChromeDriver: chrome on XP (1f1b729209c4778d25cf5148fbf21bc8)] -> xpath: //*[@id='passwd']]
+Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (1f1b729209c4778d25cf5148fbf21bc8)] -> xpath: //*[@id='SubmitLogin']]
+Retrieving the error message: Authentication failed.
+Verification done
+Test completed
+2018-03-86 09:23:13 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 09:23:14 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 09:23:19 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (bc6caedd91c3f926c4529951777fc515)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 09:23:19 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (bc6caedd91c3f926c4529951777fc515)] -> xpath: //*[@id='email']]
+2018-03-86 09:23:20 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (bc6caedd91c3f926c4529951777fc515)] -> xpath: //*[@id='passwd']]
+2018-03-86 09:23:23 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (bc6caedd91c3f926c4529951777fc515)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 09:23:23 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 09:23:23 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 09:23:23 INFO  TC0001_VerifyLogin:35 - Test completed
+2018-03-86 09:28:39 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 09:28:39 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 09:29:33 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (afe731d6ce21658594e76fcbe2338162)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 09:29:34 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (afe731d6ce21658594e76fcbe2338162)] -> xpath: //*[@id='email']]
+2018-03-86 09:29:34 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (afe731d6ce21658594e76fcbe2338162)] -> xpath: //*[@id='passwd']]
+2018-03-86 09:29:36 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (afe731d6ce21658594e76fcbe2338162)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 09:29:36 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 09:29:36 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 09:29:36 INFO  TC0001_VerifyLogin:35 - Test completed
+2018-03-86 10:29:07 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 10:29:07 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 10:29:10 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (4190f3dc46cef885be342e4d5d3adec5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 10:29:10 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (4190f3dc46cef885be342e4d5d3adec5)] -> xpath: //*[@id='email']]
+2018-03-86 10:29:11 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (4190f3dc46cef885be342e4d5d3adec5)] -> xpath: //*[@id='passwd']]
+2018-03-86 10:29:13 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (4190f3dc46cef885be342e4d5d3adec5)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 10:29:13 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 10:29:13 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 10:29:13 INFO  TC0001_VerifyLogin:35 - Test completed
+2018-03-86 10:31:00 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 10:31:00 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 10:31:03 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (9a6eeeb27600aabef5e313a7bca7ddcb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 10:31:03 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (9a6eeeb27600aabef5e313a7bca7ddcb)] -> xpath: //*[@id='email']]
+2018-03-86 10:31:04 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (9a6eeeb27600aabef5e313a7bca7ddcb)] -> xpath: //*[@id='passwd']]
+2018-03-86 10:31:06 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (9a6eeeb27600aabef5e313a7bca7ddcb)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 10:31:06 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 10:31:06 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 10:31:06 INFO  TC0001_VerifyLogin:35 - Test completed
+2018-03-86 10:32:41 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 10:32:41 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 10:32:44 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (c2771a4a2bdff78617ee74547456da52)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 10:32:44 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (c2771a4a2bdff78617ee74547456da52)] -> xpath: //*[@id='email']]
+2018-03-86 10:32:45 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (c2771a4a2bdff78617ee74547456da52)] -> xpath: //*[@id='passwd']]
+2018-03-86 10:32:46 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (c2771a4a2bdff78617ee74547456da52)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 10:32:46 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 10:32:46 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 10:32:46 INFO  TC0001_VerifyLogin:35 - Test completed
+2018-03-86 10:37:18 INFO  TC0001_VerifyLogin:27 - Starting the test
+2018-03-86 10:37:18 INFO  TC0001_VerifyLogin:30 - Logging in to app
+2018-03-86 10:37:21 INFO  HomePage:42 - Clicked on signIn and object is: [[ChromeDriver: chrome on XP (5a3f3bfce2d07038518bf4ff312d4d0a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2018-03-86 10:37:21 INFO  HomePage:45 - Email address is: test@gmail.com and object is: [[ChromeDriver: chrome on XP (5a3f3bfce2d07038518bf4ff312d4d0a)] -> xpath: //*[@id='email']]
+2018-03-86 10:37:22 INFO  HomePage:48 - Password is: password and object is: [[ChromeDriver: chrome on XP (5a3f3bfce2d07038518bf4ff312d4d0a)] -> xpath: //*[@id='passwd']]
+2018-03-86 10:37:24 INFO  HomePage:51 - Clicked on submit button and the object is: [[ChromeDriver: chrome on XP (5a3f3bfce2d07038518bf4ff312d4d0a)] -> xpath: //*[@id='SubmitLogin']]
+2018-03-86 10:37:24 INFO  HomePage:55 - Retrieving the error message: Authentication failed.
+2018-03-86 10:37:24 INFO  TC0001_VerifyLogin:34 - Verification done
+2018-03-86 10:37:24 INFO  TC0001_VerifyLogin:35 - Test completed
